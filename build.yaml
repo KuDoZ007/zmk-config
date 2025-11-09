@@ -20,10 +20,10 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: two_percent_milk
+    shield: ffkb_v1
 include:
   - board: nice_nano_v2
-    shield: two_percent_milk
+    shield: ffkb_v1
 include:
   - board: nice_nano_v2
-    shield: two_percent_milk
+    shield: ffkb_v1
